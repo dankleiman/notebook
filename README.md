@@ -29,7 +29,7 @@ When you run `notebook` there are two flags you can optionally pass:
     Name for new section of this notebook (default "new_section")
 ```
 
-By default, `notebook` with look for an environment variable called `NOTEPATH` that defines your main engineering notebook directory, but you can override this with the `notepath` flag.
+By default, `notebook` will look for an environment variable called `NOTEPATH` that defines your main engineering notebook directory, but you can override this with the `notepath` flag.
 
 You will want to use the `section` flag to name the section you are creating in a meaningful way for the new project.
 
