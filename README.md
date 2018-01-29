@@ -24,7 +24,7 @@ When you run `notebook` there are two flags you can optionally pass:
 
 ```
 -notepath string
-    Main notebook directory set by env var NOTEPATH (default "notebook")
+    Main notebook directory set by env var NOTEPATH (default ".")
 -section string
     Name for new section of this notebook (default "new_section")
 ```
