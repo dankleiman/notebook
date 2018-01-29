@@ -48,5 +48,5 @@ func notePath() string {
 	if os.Getenv("NOTEPATH") != "" {
 		return os.Getenv("NOTEPATH")
 	}
-	return "notebook"
+	return "."
 }
